@@ -1,6 +1,6 @@
-# MML-MG
+# SSML-FE
 
-This repository includes the scripts for MML-MG.
+This repository includes the scripts for SSML-FE.
 
 ## Training & Evaluation on Stage_1
 
