@@ -1,6 +1,6 @@
-# SSML-FE
+# MSGRL
 
-This repository includes the scripts for SSML-FE.
+This repository includes the scripts for MSGRL.
 
 ## Training & Evaluation on Stage_1
 
